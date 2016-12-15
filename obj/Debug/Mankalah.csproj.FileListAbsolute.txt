@@ -1,0 +1,6 @@
+S:\CS212Projects\Mankalah\Mankalah\bin\Debug\Mankalah.exe.config
+S:\CS212Projects\Mankalah\Mankalah\obj\Debug\Mankalah.csprojResolveAssemblyReference.cache
+S:\CS212Projects\Mankalah\Mankalah\bin\Debug\Mankalah.exe
+S:\CS212Projects\Mankalah\Mankalah\bin\Debug\Mankalah.pdb
+S:\CS212Projects\Mankalah\Mankalah\obj\Debug\Mankalah.exe
+S:\CS212Projects\Mankalah\Mankalah\obj\Debug\Mankalah.pdb
